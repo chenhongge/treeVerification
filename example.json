@@ -1,0 +1,11 @@
+{   
+    "inputs":       "example_breast_cancer0.libsvm", 
+    "model":        "breast_cancer_robust.0008.json",
+    "start_idx":    0,
+    "num_attack":   500,
+    "eps_init":     0.3,
+    "max_clique":   2,
+    "max_search":   10,
+    "max_level":    1,
+    "num_classes":  2
+}
