@@ -32,7 +32,7 @@ robustness verification problem.
 
 ```bash
 git clone --recurse-submodules https://github.com/chenhongge/treeVerification.git
-cd treeVerify
+cd treeVerification
 # install dependencies (requires libuv and libboost)
 sudo apt install libuv1-dev libboost-all-dev
 ./compile.sh
